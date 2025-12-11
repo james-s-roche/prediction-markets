@@ -1,0 +1,18 @@
+{
+    "events": [
+        {
+            "event_ticker": "<string>",
+            "series_ticker": "<string>",
+            "sub_title": "<string>",
+            "title": "<string>",
+            "collateral_return_type": "<string>",
+            "mutually_exclusive": true,
+            "category": "<string>",
+            "available_on_brokers": true,
+            "product_metadata": {},
+            "strike_date": "2023-11-07T05:31:56Z",
+            "strike_period": "<string>",
+        }
+    ],
+    "cursor": "<string>"
+}
